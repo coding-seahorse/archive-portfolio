@@ -4,8 +4,11 @@ A responsive portfolio website built using HTML, CSS and JavaScript.
 
 ### Features
 
-- sdgdg
-- aggdfg
+- local storage
+- dark theme toggle
+- responsive layout
+- single page design
+- 
 
 ### Tech Used
 
