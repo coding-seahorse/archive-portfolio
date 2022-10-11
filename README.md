@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-small description about website
+A responsive portfolio website built using HTML, CSS and JavaScript.
 
 ### Features
 
