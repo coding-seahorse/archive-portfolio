@@ -8,7 +8,7 @@ A responsive portfolio website built using HTML, CSS and JavaScript.
 - dark theme toggle
 - responsive layout
 - single page design
-- 
+- modern css
 
 ### Tech Used
 
