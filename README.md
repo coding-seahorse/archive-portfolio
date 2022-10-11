@@ -18,6 +18,8 @@ Dependencies not explicitly covered in the installation process; e.g., OS restri
 
 ### Ideas to implement
 
-Dependencies not explicitly covered in the installation process; e.g., OS restrictions.
+- Add a blog tab
+- Animate elements on scroll
+- Highlight active navbar item
 
 Coded and designed by
