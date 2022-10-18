@@ -5,6 +5,12 @@
 
 A responsive portfolio website built using HTML, CSS and JavaScript.
 
+### Built With
+
+- HTML5 Markup
+- CSS3
+- JavaScript (ES6)
+
 ### Features
 
 - local storage
@@ -13,8 +19,16 @@ A responsive portfolio website built using HTML, CSS and JavaScript.
 - single page design
 - modern css
 
-### Tech Used
+### Demo
 
-- HTML
-- CSS
-- JavaScript
+
+### Code Showcase
+
+
+### Acknowledgments
+
+- The Net Ninja's Modern JavaScript Course
+- JavaScript.Info
+- MDN mozilla
+- W3C (primarily for the html and css)
+- Kevin Powell (primarily for css)
