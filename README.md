@@ -3,7 +3,7 @@
 
 # Portfolio Website
 
-A responsive portfolio website built using HTML, CSS and JavaScript.
+A fully responsive portfolio website to showcase my skills as well as my other projects.
 
 ## Built With
 
