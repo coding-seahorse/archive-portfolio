@@ -11,8 +11,8 @@ A fully responsive portfolio website to showcase my skills as well as my other p
 
 ## Built With
 
-- HTML5 Markup
-- CSS3
+- Semantic HTML5 Markup
+- Modern CSS
 - JavaScript (ES6)
 
 ## Features
