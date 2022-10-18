@@ -1,3 +1,6 @@
+ <img src="https://imgur.com/a/HP9ElgL
+"/> 
+
 # My Portfolio Website
 
 A responsive portfolio website built using HTML, CSS and JavaScript.
