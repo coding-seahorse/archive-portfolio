@@ -5,6 +5,8 @@
 
 A fully responsive portfolio website to showcase my skills as well as my other projects.
 
+![Uploading portfolio2.gif…]()
+
 ## Built With
 
 - HTML5 Markup
