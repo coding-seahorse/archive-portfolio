@@ -32,6 +32,6 @@ A fully responsive portfolio website to showcase my skills as well as my other p
 
 - The Net Ninja's Modern JavaScript Course
 - JavaScript.Info
-- MDN mozilla
+- MDN Web Docs
 - W3C (primarily for the html and css)
 - Kevin Powell (primarily for css)
