@@ -5,13 +5,13 @@
 
 A responsive portfolio website built using HTML, CSS and JavaScript.
 
-### Built With
+## Built With
 
 - HTML5 Markup
 - CSS3
 - JavaScript (ES6)
 
-### Features
+## Features
 
 - local storage
 - dark theme toggle
@@ -19,13 +19,13 @@ A responsive portfolio website built using HTML, CSS and JavaScript.
 - single page design
 - modern css
 
-### Demo
+## Demo
 
 
-### Code Showcase
+## Code Showcase
 
 
-### Acknowledgments
+## Acknowledgments
 
 - The Net Ninja's Modern JavaScript Course
 - JavaScript.Info
