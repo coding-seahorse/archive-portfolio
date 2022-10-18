@@ -5,7 +5,8 @@
 
 A fully responsive portfolio website to showcase my skills as well as my other projects.
 
-![Uploading portfolio2.gif…]()
+![portfolio2](https://user-images.githubusercontent.com/115553545/196458025-1b34e430-07f2-4f33-ad95-e6a624610a25.gif)
+
 
 ## Built With
 
