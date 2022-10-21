@@ -1,7 +1,8 @@
 <h1 align="center">Portfolio Website</h1>
+
 ![portfolio](https://user-images.githubusercontent.com/115553545/196440786-4a6de051-4f08-4e43-af72-61a53c1e151b.gif)
 
-# Portfolio Website
+[View live](https://www.google.com)
 
 A fully responsive portfolio website that I built as a way to showcase my skills and projects.
 
