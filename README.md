@@ -3,7 +3,7 @@
 
 # Portfolio Website
 
-A fully responsive portfolio website to showcase my skills as well as my other projects.
+A fully responsive portfolio website that I built as a way to showcase my skills and projects.
 
 ## Built With
 
