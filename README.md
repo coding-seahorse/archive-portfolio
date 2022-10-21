@@ -15,11 +15,11 @@ A fully responsive portfolio website that I built as a way to showcase my skills
 
 ## Features
 
-- local storage
-- dark theme toggle
-- responsive layout
-- single page design
-- modern css
+- Local Storage
+- Dark/Light Theme Toggle
+- Responsive Layout
+- Single Page Design
+- Modern CSS
 
 ## Demo
 
