@@ -2,7 +2,9 @@
 
 ![portfolio](https://user-images.githubusercontent.com/115553545/196440786-4a6de051-4f08-4e43-af72-61a53c1e151b.gif)
 
-[View live](https://www.google.com)
+<p align="center">
+[View live](https://eddbyrne.com/)
+</p>
 
 A fully responsive portfolio website that I built as a way to showcase my skills and projects.
 
@@ -25,9 +27,6 @@ A fully responsive portfolio website that I built as a way to showcase my skills
 ![portfolio2](https://user-images.githubusercontent.com/115553545/196458025-1b34e430-07f2-4f33-ad95-e6a624610a25.gif)
 
 ![portfolio3](https://user-images.githubusercontent.com/115553545/196459040-5cf74beb-ebd3-4993-beb6-3a54549cc06c.gif)
-
-## Code Showcase
-
 
 ## Acknowledgments
 
