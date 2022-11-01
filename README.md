@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://eddbyrne.com/">View live</a>
 </p>
-A fully responsive portfolio website that I built as a way to showcase my skills and projects.
+A fully responsive portfolio website that I built as a way to showcase my skills and projects as a front-end developer.
 
 ## Built With
 
